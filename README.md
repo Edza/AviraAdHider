@@ -23,7 +23,7 @@ Or simply:
 
 #How does this work? How do I know this is not a virus?
 - This tool doesnt even need administrator priviliges
-- Avira shows ads by simply starting a program called ipmgui. This tool wait for it to start and then kills it
+- Avira shows ads by simply starting a program called ipmgui. This tool waits for it to start and then kills it
 - Original source code is 20 lines, just go look at it there is nothing there
 
 This works as of Q1 of 2016. If it stops working create a new issue, I'll fix it.
