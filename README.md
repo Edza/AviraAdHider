@@ -1,5 +1,5 @@
 #How to install AviraAdHider
-1. On this page click "Releases" in middle of the screen (Ctrl + F if you cant find it lol)
+1. On this page click "Release" in middle of the screen (Ctrl + F if you cant find it lol)
 2. Download the .exe file
 3. Put it into your startup folder
 4. Restart and your done
