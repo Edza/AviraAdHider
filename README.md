@@ -14,14 +14,14 @@ Or simply:
 2. Type in there "shell:startup"
 3. Copy the AviraAdHider.exe into this folder
 
-##[OPTIONAL] How to hide the annoying black window that shows up for half a second?
+###[OPTIONAL] How to hide the annoying black window that shows up on startup for half a second?
 1. Put the AviraAdHider.exe into your documents folder or any place you like
 2. Create a shortcut (If you dont know what that is go google it yourself)
 3. Put the shortcut in the startup folder
 4. Click properties on the shortcut file
 5. Choose "Start minimzed"
 
-#How to works? How do I know this is not a virus?
+#How does this work? How do I know this is not a virus?
 - This tool doesnt even need administrator priviliges
 - Avira shows ads by simply starting a program called ipmgui. This tool wait for it to start and then kills it
 - Original source code is 20 lines, just go look at it there is nothing there
