@@ -9,6 +9,7 @@ Use this link:
 https://support.microsoft.com/en-us/kb/2806079
 
 Or simply:
+
 1. Press Win + R
 2. Type in there "shell:startup"
 3. Copy the AviraAdHider.exe into this folder
